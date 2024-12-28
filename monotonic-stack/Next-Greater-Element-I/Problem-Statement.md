@@ -7,8 +7,8 @@ You are given two integer arrays `nums1` and `nums2` where `nums1` is a subset o
 The **next greater element** of some element `x` in `nums2` is the first greater element that is to the right of `x` in `nums2`. If there is no next greater element, the answer for this element is `-1`.
 
 ### Constraints
-- `1 <= nums1.length <= nums2.length <= 1000`
-- `0 <= nums1[i], nums2[i] <= 10<sup>4</sup>`
+- 1 <= nums1.length <= nums2.length <= 1000
+- 0 <= nums1[i], nums2[i] <= 10<sup>4</sup>
 - All elements in `nums1` and `nums2` are unique.
 - All elements of `nums1` are also in `nums2`.
 
